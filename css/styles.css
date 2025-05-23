@@ -6773,7 +6773,7 @@ label {
 }
 
 .box-benefit .content .btn-view {
-  margin-top: 12px;
+  margin-top: 16px;
 }
 
 .box-benefit:hover {
@@ -6785,6 +6785,10 @@ label {
 }
 
 .flat-service .box-benefit:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.flat-service .box-benefit:last-child {
   margin-bottom: 20px;
 }
 
